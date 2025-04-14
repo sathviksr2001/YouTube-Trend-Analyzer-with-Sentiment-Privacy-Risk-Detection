@@ -26,4 +26,6 @@ TextBlob: For sentiment analysis of video titles and descriptions.
 
 Matplotlib: For visualizing trends and momentum.
 
-# Applications: This project helps content creators, marketers, and analysts track YouTube trends and engagement metrics. It provides insights into the popularity and privacy-related aspects of trending videos, aiding in more informed content strategy and decision-making.
+# Applications: 
+
+This project helps content creators, marketers, and analysts track YouTube trends and engagement metrics. It provides insights into the popularity and privacy-related aspects of trending videos, aiding in more informed content strategy and decision-making.
